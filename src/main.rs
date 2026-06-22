@@ -1,3 +1,5 @@
+// Copyright (C) 2026 raptor4mc - Licensed under the GNU GPL v3.0
+
 use std::io;
 
 fn main() {
